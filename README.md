@@ -5,7 +5,7 @@ A simple table component to create a table using data as array of objects.
 ### install package using npm
 > npm install react-table-lumbini
 
-### Import Commponent
+### Import Component
 
 > import Table from "react-table-lumbini"
 
